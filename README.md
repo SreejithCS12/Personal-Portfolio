@@ -1,5 +1,7 @@
 # Personal-Portfolio
-sample one using html css and js
+s
+Sample one using html css and js
 still in updation.
-   here is the website 
+   here is My Personal_portfolio
+   
 https://sreejithcs12.github.io/Personal-Portfolio/#about
